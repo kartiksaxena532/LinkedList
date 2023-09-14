@@ -169,6 +169,7 @@ int main()
 	list.deleteNode(2);
 
 	cout << "Elements of the list are: ";
+    cout<<"hello ok test";
 	list.printList();
 	cout << endl;
 	return 0;
